@@ -5,3 +5,12 @@ h1{
     list-style: none;
     list-style-type: square;
 }
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 10px;
+}
