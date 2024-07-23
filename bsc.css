@@ -5,7 +5,6 @@ h1{
     list-style: none;
     list-style-type: square;
 }
-
 .container{
     display: flex;
     flex-direction: row;
