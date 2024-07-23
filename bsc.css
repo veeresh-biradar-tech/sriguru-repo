@@ -6,6 +6,7 @@ h1{
     list-style-type: square;
 }
 
+<<<<<<< HEAD
 .container{
     display: flex;
     flex-direction: row;
@@ -13,4 +14,13 @@ h1{
     align-items: center;
     position: fixed;
     top: 10px;
+=======
+h1{
+    background-image: none;
+    background-repeat: repeat-x;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    display: flex;
+    flex-direction: row;
+>>>>>>> relative
 }
