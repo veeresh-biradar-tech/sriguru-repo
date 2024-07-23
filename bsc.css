@@ -5,3 +5,12 @@ h1{
     list-style: none;
     list-style-type: square;
 }
+
+h1{
+    background-image: none;
+    background-repeat: repeat-x;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    display: flex;
+    flex-direction: row;
+}
